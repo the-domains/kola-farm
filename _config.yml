@@ -1,0 +1,28 @@
+name: 'Kola Farm '
+favicon: null
+layout_spectrum: 0.2506743709091097
+typography_spectrum: 0.5624867931474
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3535696833860129
+  lightness: 0.7843285254202783
+  saturation: 0.9234295131172985
+  rhythmicContrast: 0.8017639615572989
+purpose: []
